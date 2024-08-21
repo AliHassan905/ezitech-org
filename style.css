@@ -730,6 +730,10 @@ button.btn1 {
   border-radius: 3px;
   margin-top: 15px;
 }
+button.btn2 {
+display: none;
+}
+
 button.btn1:hover {
   background: #042d89;
   color: white;
@@ -1519,7 +1523,20 @@ footer.sec-footer {
   height: 25px;
   margin-bottom: 37px;
 }
-
+button.btn2 {
+  padding: 8px 19px;
+  width: 130.11px;
+  height: 39px;
+  font-size: 15px;
+  text-transform: capitalize;
+  background: #326ec9;
+  color: white;
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  border-radius: 3px;
+  margin-top: 15px;
+}
 
 
 }
