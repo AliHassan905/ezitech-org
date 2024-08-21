@@ -1522,7 +1522,7 @@ footer.sec-footer {
   height: 25px;
   margin-bottom: 37px;
 }
- button.btn2 {
+button.btn2 {
   padding: 8px 19px;
   width: 130.11px;
   height: 39px;
@@ -1534,6 +1534,7 @@ footer.sec-footer {
   font-family: "Montserrat", sans-serif;
   border: none;
   border-radius: 3px;
+  display: flex;
   margin-top: 15px;
 }
 
