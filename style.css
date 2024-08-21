@@ -1388,7 +1388,21 @@ span.price-cross1 {
 .hov {
   display: none;
 }
-
+    button.btn2 {
+        padding: 8px 19px;
+        width: 130.11px;
+        height: 39px;
+        font-size: 15px;
+        text-transform: capitalize;
+        background: #326ec9;
+        color: white;
+        font-weight: 600;
+        font-family: "Montserrat", sans-serif;
+        border: none;
+        border-radius: 3px;
+        margin-top: 15px;
+        display: flex;
+    }
 h3.left-head {
   color: WHITE;
   font-size: 20px;
@@ -1521,22 +1535,6 @@ footer.sec-footer {
   margin-top: 2px;
   height: 25px;
   margin-bottom: 37px;
-}
-button.btn2 {
-  display: flex;
-  padding: 8px 19px;
-  width: 130.11px;
-  height: 39px;
-  font-size: 15px;
-  text-transform: capitalize;
-  background: #326ec9;
-  color: white;
-  font-weight: 600;
-  font-family: "Montserrat", sans-serif;
-  border: none;
-  border-radius: 3px;
-  
-  margin-top: 15px;
 }
 
 
